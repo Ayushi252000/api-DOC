@@ -1,0 +1,8 @@
+get by data 
+ https://hotstar65.herokuapp.com/data
+
+get by category
+https://hotstar65.herokuapp.com/data?category_id=5
+
+get by language 
+https://hotstar65.herokuapp.com/language/1
